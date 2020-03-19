@@ -1,0 +1,23 @@
+{
+  "name": "anonchat",
+  "version": "0.1.0",
+  "description": "Anonymous real-time chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-the-coder/anonchat.git"
+  },
+  "author": "Jack Wherry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jack-the-coder/anonchat/issues"
+  },
+  "homepage": "https://github.com/jack-the-coder/anonchat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.2.3"
+  }
+}
