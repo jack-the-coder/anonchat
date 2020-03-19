@@ -4,7 +4,8 @@
   "description": "Anonymous real-time chat",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gcloud app deploy --project=dumbanonchat"
   },
   "repository": {
     "type": "git",
